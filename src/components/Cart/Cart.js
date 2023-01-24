@@ -81,12 +81,12 @@ export class Cart extends Component {
                                                     <p>{this.props.subTotal}$</p>
                                                 </div>
 
-                                                <div className='flex justify-between'>
+                                                <div className='flex flex-col lg:flex-row justify-between'>
                                                     <div className="mt-6 flex justify-center text-center text-sm text-gray-500">
 
                                                         <button
                                                             type="button"
-                                                            className="flex items-center justify-center rounded-full border border-transparent bg-secondry px-14 py-3 text-black font-medium  shadow-sm hover:bg-black hover:text-white"
+                                                            className="flex items-center justify-center rounded-full border border-transparent bg-secondry px-14 py-3 text-black font-medium  shadow-sm hover:bg-black hover:text-white w-full"
                                                             onClick={this.props.closeCart}
                                                         >
                                                             Review Cart
