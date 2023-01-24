@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yeshtery-product-page/static/css/main.29895ec3.css",
-    "main.js": "/yeshtery-product-page/static/js/main.4abd5cb5.js",
+    "main.css": "/yeshtery-product-page/static/css/main.a8a33879.css",
+    "main.js": "/yeshtery-product-page/static/js/main.b3b7ce27.js",
     "static/js/925.0bbbc664.chunk.js": "/yeshtery-product-page/static/js/925.0bbbc664.chunk.js",
     "index.html": "/yeshtery-product-page/index.html",
-    "main.29895ec3.css.map": "/yeshtery-product-page/static/css/main.29895ec3.css.map",
-    "main.4abd5cb5.js.map": "/yeshtery-product-page/static/js/main.4abd5cb5.js.map",
+    "main.a8a33879.css.map": "/yeshtery-product-page/static/css/main.a8a33879.css.map",
+    "main.b3b7ce27.js.map": "/yeshtery-product-page/static/js/main.b3b7ce27.js.map",
     "925.0bbbc664.chunk.js.map": "/yeshtery-product-page/static/js/925.0bbbc664.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29895ec3.css",
-    "static/js/main.4abd5cb5.js"
+    "static/css/main.a8a33879.css",
+    "static/js/main.b3b7ce27.js"
   ]
 }
